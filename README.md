@@ -10,7 +10,7 @@ Lista das principais tecnologias utilizadas no projeto:
 4. Build tool: Maven (latest)
 <br><br>
 
-## Modelo de dados
+## Entidades
 O sistema contem duas entidades principais: contatos e tags.
 <br><br>
 
